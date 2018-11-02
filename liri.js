@@ -156,7 +156,7 @@ var getMovie = function(movieName) {
   }
 };
 
-// Get movie data for `do-what-it-says`command
+// Get data for `do-what-it-says`command (in this case - getting song data)
 
 var doWhatItSays = function() {
   //LIRI will take the text inside of random.txt 
