@@ -64,7 +64,7 @@
 * Example - It should run `spotify-this-song` for "I Want it That Way," which extracts from `random.txt`.
     - see:[5 results found](https://drive.google.com/file/d/13qAvoM5HlF0Y77UnH2E7UqTHr8rmdUX9/view)
 
-###API used:
+### API used:
 * [bandsintown](https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0)
 * [Spotify](https://developer.spotify.com/documentation/web-api/)
 * [OMDb API](https://www.omdbapi.com/)
