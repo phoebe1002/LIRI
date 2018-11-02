@@ -3,13 +3,13 @@
 
 ## Supporting Files
 * liri.js 
-    - This the main file for the logic of the app
+    - This is the main file for the logic of the app
 * keys.js
     - This is required for exporting spotify authorization keys
 * random.txt
     - Using the `fs` Node package, the app will take the text inside of random.txt and then use it to call one of LIRI's commands.
 * .env
-    - This is replacing the values with your API keys (no quotes) once you have them
+    - This is replacing the values with spotify API keys 
 * package.json
     - This is required for installing third party npm packages and saving their version numbers. 
 * package-lock.json
