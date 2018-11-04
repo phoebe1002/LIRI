@@ -45,17 +45,17 @@
 ### `spotify-this-song`
 * Run `node liri.js spotify-this-song <song name here>`
 * LIRI will return *Spotify* search results for songs
-* Example#1 - search specific song: `node liri.js spotify-this-song hello`
+* Example#1 - search with keyword: `node liri.js spotify-this-song hello`
     - See demo video: [5 results found](https://drive.google.com/file/d/1QTlim7rHYWNstyh5AxQph9uzMz4LzWIs/view)
-* Example#2 - default search ("The Sign" by Ace of Base.): `node liri.js spotify-this-song`
+* Example#2 - default search: `node liri.js spotify-this-song`
     - See demo video:["The Sign" by Ace of Base](https://drive.google.com/file/d/1eiVaX08WbJmqj79Sy2Una7IOUEx9yIG8/view)    
 
 ### `movie-this`
 * Run `node liri.js movie-this <movie name here>`
 * LIRI will return *OMDB* search results for movies.
-* Example#1 - search specific movie: `node liri.js movie-this batman`
+* Example#1 - search with keyword: `node liri.js movie-this batman`
     - see demo video:[Moive title: Batman](https://drive.google.com/file/d/1Y61UwqDWFeIhLUwyzAOe0AXKPxPo0g8W/view)
-* Example#2 - default search ('Mr. Nobody.'):`node liri.js movie-this`
+* Example#2 - default search:`node liri.js movie-this`
     - see demo video:[Mr. Nobody](https://drive.google.com/file/d/1n4woz6YOi0AgnePO63gE0KKr4TF5SCza/view)
 
 ### `do-what-it-says`
