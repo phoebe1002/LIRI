@@ -18,8 +18,7 @@
     - This will tell git not to track these files, and thus they won't be committed to Github.
 
 
-## Install required modules
-###  [run the following commands](https://docs.npmjs.com/getting-started/installing-npm-packages-locally)
+## Packages used: 
 * [npm init](https://docs.npmjs.com/cli/init)
 * [npm i require](https://www.npmjs.com/package/require)
 * [npm i request](https://www.npmjs.com/package/request)
