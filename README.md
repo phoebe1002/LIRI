@@ -1,5 +1,5 @@
 # LIRI Bot
-## Build a command-line based LIRI(Language Interpretation and Recognition Interface) app that will enable users to search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+### Build a command-line based LIRI(Language Interpretation and Recognition Interface) app that will enable users to search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
 ## Supporting Files
 * liri.js 
